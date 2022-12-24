@@ -124,7 +124,6 @@ function render() {
             </div>
           </div>
         </div>
-          <img src="" alt="" class="images m-2">
         `;
 
         productDetail.imagesUrl.forEach(item => {
